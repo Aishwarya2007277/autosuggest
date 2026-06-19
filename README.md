@@ -10,6 +10,6 @@ changes flow for pushing:
 3. push/sync
 
 **commands:**
-1.git add -A
-2.git commit -m "commit message"
-3.git push
+1. git add -A
+2. git commit -m "commit message"
+3. git push

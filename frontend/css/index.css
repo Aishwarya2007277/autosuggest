@@ -1,3 +1,22 @@
 h1 {
     color: red;
 }
+
+/* id uses # and class uses .  */
+/* h1 , heading-2 , heading are known as selectors */
+
+#heading-2{
+    color: blue;
+}
+
+.heading{
+    color: chartreuse;
+}
+
+.para{
+    border: 2px; 
+    border-color: rgb(215, 170, 24);
+    border-style: solid;
+    padding: 20px;
+    text-align: center;
+}
